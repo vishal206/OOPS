@@ -14,7 +14,7 @@ class Bike extends Vehicle{
 
 class Method_overriding  {
     public static void main(String[] args) {
-        bike b=new bike();
+        Bike b=new Bike();
         b.startit();
     }
 }
